@@ -1,0 +1,9 @@
+deepagents
+langchain-ollama
+langgraph
+streamlit
+pandas
+matplotlib
+seaborn
+# Optional: only if you enable Slack sharing
+slack-sdk
